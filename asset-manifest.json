@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DeezerApi/static/css/main.78f2b045.css",
+    "main.js": "/DeezerApi/static/js/main.a38c1d6f.js",
+    "static/js/787.882c0d1e.chunk.js": "/DeezerApi/static/js/787.882c0d1e.chunk.js",
+    "static/media/frontpage.png": "/DeezerApi/static/media/frontpage.8e24983d5d588e466342.png",
+    "index.html": "/DeezerApi/index.html",
+    "main.78f2b045.css.map": "/DeezerApi/static/css/main.78f2b045.css.map",
+    "main.a38c1d6f.js.map": "/DeezerApi/static/js/main.a38c1d6f.js.map",
+    "787.882c0d1e.chunk.js.map": "/DeezerApi/static/js/787.882c0d1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78f2b045.css",
+    "static/js/main.a38c1d6f.js"
+  ]
+}
