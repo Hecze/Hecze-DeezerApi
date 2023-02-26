@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Hecze-DeezerApi/static/css/main.cb3c8ead.css",
-    "main.js": "/Hecze-DeezerApi/static/js/main.58e9cd6c.js",
+    "main.js": "/Hecze-DeezerApi/static/js/main.b886fe0d.js",
     "static/js/787.882c0d1e.chunk.js": "/Hecze-DeezerApi/static/js/787.882c0d1e.chunk.js",
     "static/media/frontpage.png": "/Hecze-DeezerApi/static/media/frontpage.8e24983d5d588e466342.png",
     "index.html": "/Hecze-DeezerApi/index.html",
     "main.cb3c8ead.css.map": "/Hecze-DeezerApi/static/css/main.cb3c8ead.css.map",
-    "main.58e9cd6c.js.map": "/Hecze-DeezerApi/static/js/main.58e9cd6c.js.map",
+    "main.b886fe0d.js.map": "/Hecze-DeezerApi/static/js/main.b886fe0d.js.map",
     "787.882c0d1e.chunk.js.map": "/Hecze-DeezerApi/static/js/787.882c0d1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb3c8ead.css",
-    "static/js/main.58e9cd6c.js"
+    "static/js/main.b886fe0d.js"
   ]
 }
